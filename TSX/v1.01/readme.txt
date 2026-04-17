@@ -1,0 +1,1 @@
+v1.01 fixed preview window to accommodate full picture in the canvas.
